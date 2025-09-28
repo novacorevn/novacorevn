@@ -15,7 +15,9 @@ Với đội ngũ kỹ sư giàu kinh nghiệm và tinh thần sáng tạo, chú
 - **Điện thoại**: 039.503.1862
 - **Email**: info@technovacore.vn  
 - **Facebook**: [NovaCore Tech](https://facebook.com/novacore)  
-- **Website**: [www.novacore.vn](https://www.technovacore.vn)  
+- **Website**: [www.technovacore.vn](https://www.technovacore.vn)
+- **Mã số thuế**: [XXX XXX XXX](https://www.technovacore.vn)
+- **Địa chỉ**: [Hà Nội, Việt Nam](https://www.technovacore.vn)  
 
 ## 🎯 Sứ mệnh  
 NovaCore cam kết trở thành đối tác công nghệ tin cậy, đồng hành cùng khách hàng trên con đường phát triển bền vững.  
