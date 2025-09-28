@@ -13,7 +13,7 @@ Với đội ngũ kỹ sư giàu kinh nghiệm và tinh thần sáng tạo, chú
 
 ## 📞 Liên hệ  
 - **Điện thoại**: 039.503.1862
-- **Email**: contact@technovacore.vn  
+- **Email**: info@technovacore.vn  
 - **Facebook**: [NovaCore Tech](https://facebook.com/novacore)  
 - **Website**: [www.novacore.vn](https://www.technovacore.vn)  
 
